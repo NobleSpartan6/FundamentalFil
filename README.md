@@ -1,3 +1,3 @@
 # BlackGen Fundamental Filter
 Fundamental filter on Tech Sector using P/S + PB Ratio Results: (01/01/2016 to 07/01/2019)
-https://user-images.githubusercontent.com/13440909/117511710-d2e06600-af53-11eb-8f59-407020a38fbe.png
+(https://user-images.githubusercontent.com/13440909/126024025-8ef0176b-3046-498b-a7c5-c407bd8d6f50.png)
